@@ -23,9 +23,9 @@ if [ ! -f "fuzzer/rust_fuzzer/target/release/rust_fuzzer" ]; then
 	cd ..
 fi
 
-echo "[*] Compiling AFL clang compiler ..."
-cd packer/packer/compiler
-make
+echo "[*] Compiling AFL++ clang compiler ..."
+cd AFLplusplus
+make -j
 cd -
 
 echo "[*] Preparing Initramfs..."

@@ -14,3 +14,6 @@
 [submodule "packer"]
 	path = packer
 	url = https://github.com/nyx-fuzz/packer.git
+[submodule "AFLplusplus"]
+	path = AFLplusplus
+	url = https://github.com/AFLplusplus/AFLplusplus.git
