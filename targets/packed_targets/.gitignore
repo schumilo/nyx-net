@@ -16,6 +16,7 @@ nyx_proftpd
 nyx_pure-ftpd
 nyx_tinydtls
 nyx_super_mario
+nyx_nginx
 smb_*
 vm.img
 snapshot
